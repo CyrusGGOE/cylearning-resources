@@ -163,7 +163,7 @@ The theory states that matter is made up of particles which are in constant, ran
 | Compressibility | Low/No compressibility | Medium compressibility/ Not easily compressible. | High/easy compressiblity                   |
 
 ## Diffusion
-- This is the movement of particles from an area of low concentration to an area of low concentration.
+- This is the movement of particles from an area of low concentration to an area of high concentration.
 
 ### Diffusion in gases
 **How to demonstrate**
