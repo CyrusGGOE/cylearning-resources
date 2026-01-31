@@ -177,3 +177,5 @@ The ink/potassium permanganate crystals start spreading around the water. The wa
 **Conclusion**
 - The ink/crystals moved throughout the water from a place where they were highly concentrated to a place where of low concentration.
 - Diffusion happens in liquids.
+![13---particles-of-potassium-permanganate-are-able-to-move-in-a-a-beaker-of-water---teachoo.png](/img/user/Images/13---particles-of-potassium-permanganate-are-able-to-move-in-a-a-beaker-of-water---teachoo.png)
+Credit to: Teachoo
